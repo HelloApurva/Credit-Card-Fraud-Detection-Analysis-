@@ -113,7 +113,7 @@ The CNN-LSTM Hybrid Deep Learning Model achieved outstanding performance by comb
 This project demonstrates how Machine Learning and Deep Learning techniques can significantly improve fraud detection systems by identifying suspicious financial activities efficiently and accurately. The comparative analysis shows that hybrid deep learning architectures such as CNN-LSTM can effectively capture complex transaction patterns and enhance fraud prediction performance in real-world financial datasets.
 
 ## 📊 Visualizations
-(Images/accuracy_score_comparison_dl.png)
-(Images/accuracy_score_comparison_ml.png)
-(Images/sunburst.png)
-(Images/treemap.png)
+![Accuracy score Deep Learning](Images/accuracy_score_comparison_dl.png)
+![Accuracy score Machine Learning](Images/accuracy_score_comparison_ml.png)
+![Sunburst Chart](Images/sunburst.png)
+![Treemap Graph](Images/treemap.png)
