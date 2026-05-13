@@ -117,3 +117,34 @@ This project demonstrates how Machine Learning and Deep Learning techniques can 
 ![Accuracy score Machine Learning](Images/accuracy_score_comparison_ml.png)
 ![Sunburst Chart](Images/sunburst.png)
 ![Treemap Graph](Images/treemap.png)
+
+
+## 🚀 How to Run
+
+Follow these steps to set up and run the project locally:
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/HelloApurva/Credit-Card-Fraud-Detection-Analysis-.git
+cd Credit-Card-Fraud-Detection-Analysis-
+
+# 2. Create a virtual environment (recommended)
+python -m venv venv
+
+# Activate environment
+# Windows:
+venv\Scripts\activate
+
+# Mac/Linux:
+source venv/bin/activate
+
+# 3. Install dependencies
+pip install -r requirements.txt
+
+# If requirements.txt is not available, use:
+pip install numpy pandas matplotlib seaborn scikit-learn jupyter
+
+# 4. Run Jupyter Notebook
+jupyter notebook
+
+# Then open your main notebook file in the browser
